@@ -4,7 +4,7 @@
 
 ## Link To Deployed Site
 
-[Updated Portfolio](https://hamzaaaabdikarim33.github.io/Updated-Portfolio/).
+[Updated Portfolio](https://hamzaaaabdikarim33.github.io/Updated-Portfolio-2/index.html).
 
 ## Overview
 
@@ -12,14 +12,13 @@ Updated portfolio with skills built over the last two months of class. Features 
 
 ## Issue
 
-* Do to the risk to my current job I am unable to update my LinkedIn profile to fit the requirements of this assignment. I am linked with many individuals within my company that would notice if I updated with the required details. 
+- Do to the risk to my current job I am unable to update my LinkedIn profile to fit the requirements of this assignment. I am linked with many individuals within my company that would notice if I updated with the required details.
 
 ## Wins
 
-* I've always wanted to try parallax scrolling, and it turned out just like I wanted this site to look!
+- I've always wanted to try parallax scrolling, and it turned out just like I wanted this site to look!
 
-* I tried materialize for the first time, and it was a very positive experience. Very simple to pick up, easy to read documentation. 
-
+- I tried materialize for the first time, and it was a very positive experience. Very simple to pick up, easy to read documentation.
 
 # The MIT License (MIT)
 
